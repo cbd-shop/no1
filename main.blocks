@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="Pn.]qHp+uE{mzXiHX|iP" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="4-.Z5]lJX#7x([k3PUDe"><value name="text"><shadow type="text" id="c|3g40(`$R;nc/x7|c%R"><field name="TEXT">I love Marisa</field></shadow></value></block></statement></block></xml>
